@@ -1,5 +1,7 @@
 # Flask Task Manager
 
+> 🚧 **Work in progress** – this project is still under development, and more changes are coming.
+
 A simple task management web application built with Python, Flask and JavaScript.
 
 ## 📌 About
