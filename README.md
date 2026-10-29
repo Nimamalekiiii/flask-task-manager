@@ -1,16 +1,16 @@
 # Flask Task Manager
 
-> 🚧 **Work in progress** – this project is still under development, and more changes are coming.
+>  **Work in progress** – this project is still under development, and more changes are coming.
 
 A simple task management web application built with Python, Flask and JavaScript.
 
-## 📌 About
+##  About
 
 This project is a web-based task management application developed to explore backend development with Flask, API endpoints and frontend integration.
 
 The application allows users to add tasks and retrieve existing tasks through a Flask backend.
 
-## 🚀 Features
+##  Features
 
 - Add new tasks
 - Retrieve existing tasks
@@ -20,7 +20,7 @@ The application allows users to add tasks and retrieve existing tasks through a 
 - JavaScript integration
 - JSON-based data exchange
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Flask**
@@ -28,7 +28,7 @@ The application allows users to add tasks and retrieve existing tasks through a 
 - **HTML5**
 - **CSS3**
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 flask-task-manager/
